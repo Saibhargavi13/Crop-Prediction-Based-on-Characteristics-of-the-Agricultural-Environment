@@ -1,0 +1,29 @@
+1.importing the packages
+2.exploring the dataset - crop recommendation data
+3.data processing and cleaning
+4.visualization the data using seaborn and matplotlib
+5.Splitting the data to train and test
+6.building the model with and without feature selection
+	- Feature Selection (SMOTE, ROSE, RFE, MRFE, BORUTA, MEMOTE)
+	- KNN
+	- Naive Bayes
+	- Bagging Classifeir
+	- Random Forest
+	- Decision Tree
+	- SVM
+	- Gradient Boosting
+	- Voting Classifier
+   
+7.training the model
+8.building the model with Voting Classifier since it gives better accuracy comparing with Other Models 
+9.Flask Framework with Sqlite for signup and signin
+10.importing the packages
+11.User gives input as Feature Values 
+12.the given input is preprocessed for prediction
+13.trained model is used for prediction
+14.final outcome is displayed through frontend
+
+Note:
+
+Extension - Voting Classifier, Gradient Boosting is build as Extension for feature values
+used for prediction since we it gives better accuracy around 100% comparing with other Models
